@@ -19,4 +19,4 @@ Analyze UK trade trends from 2000 to 2023 using Python and visualize insights us
 - UK export growth was **inconsistent**, with some peak years
 
 ## 📁 Project File
-- [Click here to open the notebook](./Analyzing_UK_Trade_Performance_Using_World_Bank_Data.ipynb
+- ./Analyzing_UK_Trade_Performance_Using_World_Bank_Data.ipynb
